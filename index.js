@@ -1,4 +1,4 @@
-var precinct = require('precinct');
+var precinct = require('piuccio.precinct');
 var path = require('path');
 var fs = require('fs');
 var cabinet = require('filing-cabinet');

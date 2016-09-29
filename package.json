@@ -1,6 +1,6 @@
 {
-  "name": "dependency-tree",
-  "version": "5.6.1",
+  "name": "piuccio.dependency-tree",
+  "version": "5.6.3",
   "description": "Get the dependency tree of a module",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:mrjoelkemp/node-dependency-tree.git"
+    "url": "git@github.com:piuccio/node-dependency-tree.git"
   },
   "keywords": [
     "dependency",
@@ -26,14 +26,14 @@
   "author": "Joel Kemp <joel@mrjoelkemp.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrjoelkemp/node-dependency-tree/issues"
+    "url": "https://github.com/piuccio/node-dependency-tree/issues"
   },
-  "homepage": "https://github.com/mrjoelkemp/node-dependency-tree",
+  "homepage": "https://github.com/piuccio/node-dependency-tree",
   "dependencies": {
     "commander": "~2.6.0",
     "debug": "~2.2.0",
     "filing-cabinet": "^1.5.0",
-    "precinct": "^3.1.1"
+    "piuccio.precinct": "^3.2.0"
   },
   "devDependencies": {
     "babel": "~5.8.38",
